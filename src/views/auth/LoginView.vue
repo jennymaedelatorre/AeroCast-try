@@ -48,7 +48,7 @@ import RegisterForm from '@/components/auth/RegisterForm.vue';
                   <v-col cols="12" md="4"
                     style="background: linear-gradient(to bottom right, rgba(135, 206, 250, 1), rgba(176, 224, 230, 1));">
                     <v-card-text class="white--text mt-12" style="color: #fff;">
-                      <h1 class="text-center display-1">Welcome!</h1>
+                      <h1 class="text-center display-1">HAYSSSS!</h1>
                       <h5 class="text-center">Enter your personal email and start your journey with us</h5>
                     </v-card-text>
                     <div class="text-center mb-12">
