@@ -48,7 +48,7 @@
                   </v-form>
 
                   <v-divider class="my-5"></v-divider>
-                  <h5 class="text-center">Already have an account? <RouterLink to="/login" class="text-primary">Click here LogIn</RouterLink></h5>
+                  <h5 class="text-center">Already have an account? <RouterLink to="/login" class="text-primary">Don't click here LogIn</RouterLink></h5>
                 </v-card-text>
               </v-card>
             </v-col>
